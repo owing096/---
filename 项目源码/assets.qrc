@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file alias="player1.png">assets/player1.png</file>
+        <file alias="player2.png">assets/player2.png</file>
+        <file alias="enemy1.png">assets/enemy1.png</file>
+        <file alias="enemy2.png">assets/enemy2.png</file>
+        <file alias="boss.png">assets/boss.png</file>
+    </qresource>
+</RCC>
